@@ -1,2 +1,2 @@
 # Data-Prediction
-Machine Learning project for data prediction by use of  different  algorithms increase accuracy for predict correct data
+This project aims to enhance the accuracy of data prediction by leveraging a variety of machine learning algorithms. By comparing the performance of different algorithms, Aim to identify the most effective approach for accurately predicting data
